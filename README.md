@@ -25,8 +25,8 @@
 ## 🚀 如何使用
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/myRan-ML/optimization.git
+   cd optimization
    ```
 
 2. 安装依赖：
